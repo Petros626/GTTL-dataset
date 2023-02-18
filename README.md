@@ -26,4 +26,4 @@ RAM: 8GB
 EEPROM: up to date (important for optimized speed)
 ```
 ## Setup
-to be continued
+to be continued...
