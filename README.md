@@ -3,7 +3,7 @@ This German traffic transfer learning (GTTL)-dataset contains more than xxx,xxx 
 
 ## Specifications
 ```
-<ins> Camera: </ins>
+<ins>Camera:</ins>
 
 Resolution: 1920×1080 pixels
 Camera: RPi IR-Cut Camera
@@ -15,7 +15,7 @@ Classes: xx
 Images: xxx,xxx
 Minimum distance between individual images: individually self-triggered
 
-<ins> Hardware: </ins>
+<ins>Hardware:</ins>
 
 SBC: Raspberry Pi 4B
 OS: Raspberry Pi OS (64-bit)
