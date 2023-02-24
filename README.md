@@ -9,8 +9,7 @@ Camera:
 
 Resolution: 1920×1080 pixels
 Camera: RPi IR-Cut Camera
-Sensor: OmniVision OV5647
-Lens: Tamron: 
+Sensor: OmniVision OV5647 
 Format: PNG (Quality Level 100%)
 Size: xxx GB
 Classes: xx
@@ -31,7 +30,7 @@ OS: Raspberry Pi OS (64-bit)
 CPU: 1,9 GHz (overclocked)
 RAM: 8GB
 EEPROM: up to date (important for optimized speed)
-+ specific settings in config.txt (link document here)
++ specific settings in config.txt ()
 ```
 
 ## Setup
