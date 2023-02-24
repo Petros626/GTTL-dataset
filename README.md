@@ -30,7 +30,7 @@ OS: Raspberry Pi OS (64-bit)
 CPU: 1,9 GHz (overclocked)
 RAM: 8GB
 EEPROM: up to date (important for optimized speed)
-+ specific settings in config.txt ()
++ specific settings [Tuning guide]()
 ```
 
 ## Setup
