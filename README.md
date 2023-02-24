@@ -22,7 +22,6 @@ Available here: https://www.waveshare.com/product/rpi-ir-cut-camera.htm
 ```
 
 
-
 Hardware:
 
 SBC: Raspberry Pi 4B
@@ -33,7 +32,6 @@ EEPROM: up to date (important for optimized speed)
 + specific settings (see below) 
 ```
 ![IMG_20230224_102944](https://user-images.githubusercontent.com/62354721/221146164-2346b43f-d79b-410d-bca0-9ccadf2f353c.jpg)
-
 
 [RPi 4 Tuning guide](https://github.com/Petros626/GTTL-dataset/blob/main/Tuning%20guide.pdf)
 
