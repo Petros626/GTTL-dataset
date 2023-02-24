@@ -35,4 +35,4 @@ EEPROM: up to date (important for optimized speed)
 to be continued...
 
 ## Outlook
-
+For automated camera triggering to create the dataset, GPS triggering would be a good method. The Raspberry Pi with a GPS module (e.g. Neo 6M with https://github.com/Knio/pynmea2 or https://github.com/geopy/geopy library) could be used for this. The calculation of the distance travelled can be achieved manually (pynmea2) or via ready-made functions (geopy). 
