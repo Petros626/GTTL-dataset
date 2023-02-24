@@ -36,4 +36,4 @@ to be continued...
 
 ## Outlook
 For automated camera triggering to create the dataset, GPS triggering would be a good method. The Raspberry Pi with a GPS module (e.g. Neo 6M with [pynmea2](https://github.com/Knio/pynmea2) or [geopy](https://github.com/geopy/geopy) library could be used for this. The calculation of the distance travelled can be achieved manually (**pynmea2**) or via ready-made functions (**geopy**). 
-The question arises after how many metres the camera should trigger, are there statistics after how many metres on average in road traffic one follows the other or does one refer to already created data sets, such as that of [EvoTegra] (https://www.evotegra.de/datasets), which used a distance of 4m per triggering.
+The question arises after how many metres the camera should trigger, are there statistics after how many metres on average in road traffic one follows the other or does one refer to already created data sets, such as that of [EvoTegra](https://www.evotegra.de/datasets), which used a distance of 4m per triggering.
