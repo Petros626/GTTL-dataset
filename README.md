@@ -19,6 +19,9 @@ Minimum distance between individual images: individually self-triggered
 
 
 ```
+
+
+
 Hardware:
 
 SBC: Raspberry Pi 4B
