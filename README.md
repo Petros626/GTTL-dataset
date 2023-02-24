@@ -15,6 +15,8 @@ Classes: xx
 Images: xxx,xxx
 Minimum distance between individual images: individually self-triggered
 ```
+![image](https://user-images.githubusercontent.com/62354721/221123624-c9bb0426-997a-4e2e-94f0-ba764db2f04c.png)
+
 
 ```
 Hardware:
@@ -24,6 +26,10 @@ OS: Raspberry Pi OS (64-bit)
 CPU: 1,9 GHz (overclocked)
 RAM: 8GB
 EEPROM: up to date (important for optimized speed)
++ specific settings in config.txt (linked here)
 ```
 ## Setup
 to be continued...
+
+## Outlook
+
