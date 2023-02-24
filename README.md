@@ -17,7 +17,7 @@ Minimum distance between individual images: individually self-triggered
 ```
 ![image](https://user-images.githubusercontent.com/62354721/221123624-c9bb0426-997a-4e2e-94f0-ba764db2f04c.png)
 
-Available: https://www.waveshare.com/product/rpi-ir-cut-camera.htm
+Available here: https://www.waveshare.com/product/rpi-ir-cut-camera.htm
 ```
 
 
