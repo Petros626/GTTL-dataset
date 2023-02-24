@@ -32,6 +32,8 @@ RAM: 8GB
 EEPROM: up to date (important for optimized speed)
 + specific settings (see below) 
 ```
+![IMG_20230224_102944](https://user-images.githubusercontent.com/62354721/221145252-68cf5803-4185-42ca-8b99-9861cb096c4b.jpg)
+
 [RPi 4 Tuning guide](https://github.com/Petros626/GTTL-dataset/blob/main/Tuning%20guide.pdf)
 
 ## Setup
