@@ -30,7 +30,7 @@ OS: Raspberry Pi OS (64-bit)
 CPU: 1,9 GHz (overclocked)
 RAM: 8GB
 EEPROM: up to date (important for optimized speed)
-+ specific settings [Tuning guide]()
++ specific settings [RPi 4 Tuning guide](https://github.com/Petros626/GTTL-dataset/blob/main/Tuning%20guide.pdf)
 ```
 
 ## Setup
