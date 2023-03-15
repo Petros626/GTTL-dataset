@@ -10,7 +10,7 @@ Camera:
 Resolution: 1920×1080 pixels
 Camera: RPi IR-Cut Camera
 Sensor: OmniVision OV5647 
-Format: PNG (Quality Level 100%)
+Format: PNG (Quality Level 95%, Compression Level 0)
 Size: xxx GB
 Classes: xx
 Images: xxx,xxx
