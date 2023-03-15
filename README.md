@@ -27,6 +27,7 @@ Hardware:
 SBC: Raspberry Pi 4B
 OS: Raspberry Pi OS (64-bit)
 CPU: 1,9 GHz (overclocked)
+GPU: 650 MHz (overclocked)
 RAM: 8GB
 EEPROM: up to date (important for optimized speed)
 + specific settings (see RPi 4 Tuning guide*) 
