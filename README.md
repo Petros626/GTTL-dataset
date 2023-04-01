@@ -21,7 +21,6 @@ Minimum distance between individual images: individually self-triggered
 Available here: https://www.waveshare.com/product/rpi-ir-cut-camera.htm
 ```
 
-
 Hardware:
 
 SBC: Raspberry Pi 4B
@@ -38,6 +37,8 @@ EEPROM: up to date (important for optimized speed)
 
 ## Setup
 to be continued... Images of whole Hardware Setup for dataset creation
+
+## Software
 
 ## Outlook
 For automated camera triggering to create the dataset, GPS triggering would be a good method. The Raspberry Pi with a GPS module (e.g. [Neo-6M GPS](https://www.berrybase.de/fr/u-blox-neo-6m-gps-ttl-empfaenger-inkl.-antenne) with [pynmea2](https://github.com/Knio/pynmea2) or [geopy](https://github.com/geopy/geopy) library could be used for this. The calculation of the distance travelled can be achieved manually (**pynmea2**) or via ready-made functions (**geopy**). 
