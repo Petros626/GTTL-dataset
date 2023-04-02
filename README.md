@@ -55,6 +55,8 @@ The new camera stack of the systems Bullseye 32-bit and 64-bit does not work wit
 In principle, it is possible to configure the camera for the (**picamera2**) library using a `tuning_file`. These files are .json files which allow to adjust the adjustable parameters for the specific camera model. The parameters have been determined specifically for each camera sensor, so that a manual calibration (chapter 6 https://datasheets.raspberrypi.com/camera/raspberry-pi-camera-guide.pdf) is normally not necessary. 
 If you do, you can consult the documentation of the parameters and experiment with them yourself.
 
+The adjustment of the camera used with this `tuning_file` offers a lot of adjustment, but you cannot fix lens distortion like radial/tangential distortion with it. For this purpose, however, the special camera calibration using OpenCV can be used. Thus it is theoretically possible to use the tuning parameters as well as the non-distortion for the camera recording.
+
 
 
 ## Use
