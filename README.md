@@ -41,7 +41,7 @@ EEPROM: up to date (important for optimized speed)
 to be continued... Images of whole Hardware Setup for dataset creation
 
 ## Software
-```
+```python
 ir_cut_picamera2.py: manually take and save pictures
 ir_cut_picamera2_oop.py: same as above as OOP approach
 ir_cut_picamera2_timer.py: take and save pictures with self-timer
@@ -49,7 +49,9 @@ ir_cut_picamera2_timer.py: take and save pictures with self-timer
 
 The first script is used to manually take and save pictures. The second is a copy of the first but with an object-oriented approach. The last script is used for capturing with a 5 second timer, which is basically used for creating the images for the camera calibration.
 
-### Use
+### Camera Calibration with PiCamera2 and OpenCV
+
+## Use
 
 ```python 
 sudo python3 ir_cut_picamera2.py --imgdir=images --res=1920x1080
