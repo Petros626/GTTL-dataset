@@ -38,6 +38,7 @@ EEPROM: up to date (important for optimized speed)
  [RPi 4 Tuning guide*](https://github.com/Petros626/GTTL-dataset/blob/main/RPi%204%20Tuning%20Guide.pdf). Of course the values are not limited, but for me the focus was on a combination of performance and safety. If necessary, I will adjust the values for the CPU and GPU.
 
 
+
 ## Setup
 to be continued... Images of whole Hardware Setup for dataset creation
 
@@ -53,6 +54,7 @@ The adjustment of the camera used with this `tuning_file` offers a lot of adjust
 python3 calibrate_camera.py --imgdir=calib_imabes --savedir=undistorted_images --board=9x6
 ```
 This script load the calibration images for the camera calibration....
+
 
 
 ## Software
