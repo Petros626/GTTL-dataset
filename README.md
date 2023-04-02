@@ -49,7 +49,7 @@ The first script is used to manually take and save pictures. The second is a cop
 
 ### Use
 
-`sudo python3 ir_cut_picamera2.py --imgdir=images --res=1920x1080`
+```python sudo python3 ir_cut_picamera2.py --imgdir=images --res=1920x1080```
 
 `sudo python3 ir_cut_picamera2_oop.py --imgdir=images --res=1920x1080`
 
