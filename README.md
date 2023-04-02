@@ -37,17 +37,9 @@ EEPROM: up to date (important for optimized speed)
 
  [RPi 4 Tuning guide*](https://github.com/Petros626/GTTL-dataset/blob/main/RPi%204%20Tuning%20Guide.pdf). Of course the values are not limited, but for me the focus was on a combination of performance and safety. If necessary, I will adjust the values for the CPU and GPU.
 
+
 ## Setup
 to be continued... Images of whole Hardware Setup for dataset creation
-
-## Software
-```python
-ir_cut_picamera2.py: manually take and save pictures
-ir_cut_picamera2_oop.py: same as above as OOP approach
-ir_cut_picamera2_timer.py: take and save pictures with self-timer
-```
-
-The first script is used to manually take and save pictures. The second is a copy of the first but with an object-oriented approach. The last script is used for capturing with a 5 second timer, which is basically used for creating the images for the camera calibration.
 
 ### Camera Calibration with PiCamera2 and OpenCV
 The new camera stack of the systems Bullseye 32-bit and 64-bit does not work with [OpenCV](https://github.com/opencv/opencv) for video applications, for this you have to activate the old camera stack, but with mismatch of the function of the new library [PiCamera2](https://github.com/raspberrypi/picamera2). 
@@ -60,7 +52,17 @@ The adjustment of the camera used with this `tuning_file` offers a lot of adjust
 ```python
 python3 calibrate_camera.py --imgdir=calib_imabes --savedir=undistorted_images --board=9x6
 ```
-This script
+This script load the calibration images for the camera calibration....
+
+
+## Software
+```python
+ir_cut_picamera2.py: manually take and save pictures
+ir_cut_picamera2_oop.py: same as above as OOP approach
+ir_cut_picamera2_timer.py: take and save pictures with self-timer
+```
+
+The first script is used to manually take and save pictures. The second is a copy of the first but with an object-oriented approach. The last script is used for capturing with a 5 second timer, which is basically used for creating the images for the camera calibration.
 
 
 ## Use
