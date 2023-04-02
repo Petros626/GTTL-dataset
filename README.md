@@ -50,12 +50,12 @@ ir_cut_picamera2_timer.py: take and save pictures with self-timer
 The first script is used to manually take and save pictures. The second is a copy of the first but with an object-oriented approach. The last script is used for capturing with a 5 second timer, which is basically used for creating the images for the camera calibration.
 
 ### Camera Calibration with PiCamera2 and OpenCV
-The new camera stack of the systems Bullseye 32-bit and 64-bit does not work with OpenCV for video applications, for this you have to activate the old camera stack, but with mismatch of the function of the new library [PiCamera2](https://github.com/raspberrypi/picamera2). 
+The new camera stack of the systems Bullseye 32-bit and 64-bit does not work with [OpenCV](https://github.com/opencv/opencv) for video applications, for this you have to activate the old camera stack, but with mismatch of the function of the new library [PiCamera2](https://github.com/raspberrypi/picamera2). 
 
 In principle, it is possible to configure the camera for the (**picamera2**) library using a `tuning_file`. These files are .json files which allow to adjust the adjustable parameters for the specific camera model. The parameters have been determined specifically for each camera sensor, so that a manual calibration (chapter 6 https://datasheets.raspberrypi.com/camera/raspberry-pi-camera-guide.pdf) is normally not necessary. 
 If you do, you can consult the documentation of the parameters and experiment with them yourself.
 
-The adjustment of the camera used with this `tuning_file` offers a lot of adjustment, but you cannot fix lens distortion like radial/tangential distortion with it. For this purpose, however, the special camera calibration using OpenCV can be used. Thus it is theoretically possible to use the tuning parameters as well as the non-distortion for the camera recording.
+The adjustment of the camera used with this `tuning_file` offers a lot of adjustment, but you cannot fix lens distortion like radial/tangential distortion with it. For this purpose, however, the special camera calibration using (**opencv**) can be used. Thus it is theoretically possible to use the tuning parameters as well as the non-distortion for the camera recording.
 
 
 
