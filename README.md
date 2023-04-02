@@ -59,13 +59,13 @@ sudo python3 ir_cut_picamera2.py --imgdir=images --res=1920x1080
 sudo python3 ir_cut_picamera2_oop.py --imgdir=images --res=1920x1080
 ```
 
-Both scripts need the folder, where the taken images should be saved. If no folder is created before and passed as argument, the script will automatically create a default folder called "images". The default resolution is 1920x1080, if you want to change it don't forget to specidy WxH with x.
+Both scripts need the folder, where the taken images should be saved. If no folder is created before and passed as argument, the script will automatically create a default folder called "images". The default resolution is 1920x1080, if you want to change it don't forget to specify WxH with x.
 
 ```python
 sudo python3 ir_cut_picamera2_timer.py --imgdir=calibration_images --res=1920x1080 --time=5
 ```
 
-The last script needs the destination, where the calibration images for OpenCV camera calibration get saved. Additionally you can adjust the time before a picture is taken, to position the chessboard before taking the image. To achieve a sufficient accuracy it's recommended to take between 10-20 images of the chessboard.
+The last script needs the destination, where the calibration images for OpenCV camera calibration get saved. Additionally you can adjust the time before a picture is taken, to position the chessboard before taking the image. To achieve a sufficient accuracy it's recommended to take between 10-20 images of the chessboard. Further information here https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html.
 
 
 
