@@ -56,7 +56,7 @@ The adjustment of the camera used with this `tuning_file` offers a lot of adjust
 
 |    PiCamera2              |      OpenCV                   |   PiCamera2&OpenCV
 |---------------------------|-------------------------------|-------------------|
-| - use the .json tuning_file  with a lot of algorithms for RPi cameras | Enable the old camera-stack for RPi and use the camera calibration with less tuning parameters | - works, but the stream is very slow (suggestions for improvement welcome **link script**) |                    
+| - use the .json tuning_file  with a lot of algorithms for RPi cameras | - Enable the old camera-stack for RPi and use the camera calibration with less tuning parameters | - works, but the stream is very slow (suggestions for improvement welcome **link script**) |                    
  
 ### Only camera calibration
 
@@ -69,7 +69,8 @@ python3 calibrate_camera.py --imgdir=calib_imabes --savedir=undistorted_images -
 
 
 
-## Software
+## Python scripts for creating the dataset
+
 Manually take and save pictures:
 ```python
 ir_cut_picamera2.py: 
@@ -88,7 +89,7 @@ ir_cut_picamera2_timer.py:
 The first script is used to manually take and save pictures. The second is a copy of the first but with an object-oriented approach. The last script is used for capturing with a 5 second timer, which is basically used for creating the images for the camera calibration.
 
 
-## Use
+## Use of the Scripts
 Both scripts need the folder, where the taken images should be saved. If no folder is created before and passed as argument, the script will automatically create a default folder called "images". The default resolution is 1920x1080, if you want to change it don't forget to specify WxH with x.
 
 **Note**: The 'sudo' command is required for permissions of the package [keyboard](https://github.com/boppreh/keyboard)**
