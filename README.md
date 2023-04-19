@@ -40,7 +40,7 @@ EEPROM: up to date (important for optimized speed)
 
 
 ## Setup
-to be continued... Images of whole Hardware Setup for dataset creation
+to be continued.... Images of whole Hardware Setup for dataset creation
 
 ### Camera Calibration with PiCamera2 and OpenCV
 The new camera stack of the systems Bullseye 32-bit and 64-bit does not work with [OpenCV](https://github.com/opencv/opencv) for video applications, for this you have to activate the old camera stack, but with mismatch of the function of the new library [PiCamera2](https://github.com/raspberrypi/picamera2). 
