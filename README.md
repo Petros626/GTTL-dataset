@@ -54,7 +54,7 @@ The adjustment of the camera used with this `tuning_file` offers a lot of adjust
 
 |    PiCamera2              |      OpenCV                   |   PiCamera2&OpenCV
 |---------------------------|-------------------------------|-------------------|
-| - use the .json tuning_file  with a lot of algorithms for RPi cameras | Enable the old camera-stack for RPi and use the camera calibration with less tuning parameters |                      
+| - use the .json tuning_file  with a lot of algorithms for RPi cameras | Enable the old camera-stack for RPi and use the camera calibration with less tuning parameters | - works, but very slow (suggestions for improvement welcome **link script**) |                    
 |                           |                               |                   |  
 
 
