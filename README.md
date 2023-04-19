@@ -21,7 +21,6 @@ Minimum distance between individual images: individually self-triggered
 ```
 
 ```
-
 Hardware:
 
 SBC: Raspberry Pi 4B
@@ -41,6 +40,7 @@ The following image shows the Raspberry Pi 4 with a heat sink being machined to 
 
 
 ## Setup
+´´´
 1x Raspberry Pi 4 Model B 8GB RAM
 1x Fan SHIM by Pimoroni
 1x RPi IR-CUT Camera
@@ -49,7 +49,7 @@ The following image shows the Raspberry Pi 4 with a heat sink being machined to 
 1x IP2S-S3L Car Tablet Holder 
 1x CSI Flex ribbon cable
 1x Odoga 300W Digital Power Converter
-
+´´´
 
 ### Camera Calibration with PiCamera2 and OpenCV
 The new camera stack of the systems Bullseye 32-bit and 64-bit does not work with [OpenCV](https://github.com/opencv/opencv) for video applications, for this you have to activate the old camera stack, but with mismatch of the function of the new library [PiCamera2](https://github.com/raspberrypi/picamera2). 
