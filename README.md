@@ -50,7 +50,8 @@ If you do, you can consult the documentation of the parameters and experiment wi
 
 The adjustment of the camera used with this `tuning_file` offers a lot of adjustment, but you cannot fix lens distortion like radial/tangential distortion with it. For this purpose, however, the special camera calibration using **opencv** can be used. Thus it is theoretically possible to use the tuning parameters as well as the non-distortion for the camera recording.
 
-##Current options
+### Current options
+PiCamera2:         OpenCV       PiCamera2&OpenCV
 
 This script loads the calibration images of the default folder "calib_images". Further you must give the folder, where the undistorted images after calibration get saved. The last argument is the board dimension, which must be given correctly, because many people make a mistak here, which causes that the algorithms can't find all corners and return `False` for some calibration images. 
 
