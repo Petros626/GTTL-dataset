@@ -52,11 +52,13 @@ The adjustment of the camera used with this `tuning_file` offers a lot of adjust
 
 ### Current options
 
-|    PiCamera2     |      OpenCV       |   PiCamera2&OpenCV
-|------------------|-------------------|-------------------|
-| use the .json tuning_file with a lot of algorithms  | Enable the old camera-stack for RPi and use the camera calibration with less tuning parameters provided by OpenCV   |                   |
-| no undistortion with OpenCV possible  | Row 2, Column 2   |                   |
-
+|    PiCamera2              |      OpenCV                   |   PiCamera2&OpenCV
+|---------------------------|-------------------------------|-------------------|
+| - use the .json tuning_file | Enable the old camera-stack |                   |
+| with a lot of algorithms  | for RPi and use the camera    |                   |
+| for RPi cameras           | calibration with less tuning  |                   |                  
+| - no undistortion with    | Row 2, Column 2               |                   |                 
+| OpenCV possible           |                               |                   |
 
 
 This script loads the calibration images of the default folder "calib_images". Further you must give the folder, where the undistorted images after calibration get saved. The last argument is the board dimension, which must be given correctly, because many people make a mistak here, which causes that the algorithms can't find all corners and return `False` for some calibration images. 
