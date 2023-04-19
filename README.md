@@ -73,7 +73,7 @@ Manually take and save pictures:
 ir_cut_picamera2.py: 
 ```
 
-Same as above as OOP approach:
+Same as above as OOP approach (just for learning purposes):
 ```python
 ir_cut_picamera2_oop.py:
 ```
