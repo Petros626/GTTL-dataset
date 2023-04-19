@@ -78,6 +78,7 @@ The first script is used to manually take and save pictures. The second is a cop
 
 ## Use
 Both scripts need the folder, where the taken images should be saved. If no folder is created before and passed as argument, the script will automatically create a default folder called "images". The default resolution is 1920x1080, if you want to change it don't forget to specify WxH with x.
+Note: **the 'sudo' is required for package [keyboard](https://github.com/boppreh/keyboard)**
 
 ```python 
 sudo python3 ir_cut_picamera2.py --imgdir=images --res=1920x1080
