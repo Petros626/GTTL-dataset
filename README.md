@@ -56,7 +56,7 @@ The adjustment of the camera used with this `tuning_file` offers a lot of adjust
 |---------------------------|-------------------------------|-------------------|
 | - use the .json tuning_file  with a lot of algorithms for RPi cameras | Enable the old camera-stack for RPi and use the camera calibration with less tuning parameters | - works, but the stream is very slow (suggestions for improvement welcome **link script**) |                    
  
-
+## Only camera calibration
 
 This script loads the calibration images of the default folder "calib_images". Further you must give the folder, where the undistorted images after calibration get saved. The last argument is the board dimension, which must be given correctly, because many people make a mistak here, which causes that the algorithms can't find all corners and return `False` for some calibration images. 
 
