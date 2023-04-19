@@ -40,6 +40,7 @@ The following image shows the Raspberry Pi 4 with a heat sink being machined to 
 
 
 ## Setup
+
 ```
 1x Raspberry Pi 4 Model B 8GB RAM
 1x Fan SHIM by Pimoroni
