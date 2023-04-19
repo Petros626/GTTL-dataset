@@ -1,5 +1,5 @@
 # GTTL-dataset
-This **German traffic transfer learning** (GTTL)-dataset contains more than xxx,xxx images with more than xx classes. The class system is based on the German road traffic regulation (StVo) and covers traffic signs lights and vehicles. The dataset contains city, villages, country roads, federal roads and highway scenes in different weather conditions, daytimes and time of year. It includes a variation of corner cases like extreme light, snow and rain to validate Deep Learning algorithms.
+This **German Traffic Transfer Learning** (GTTL)-dataset contains more than xxx,xxx images with more than xx classes. The class system is based on the German road traffic regulation (StVo) and covers traffic signs lights and vehicles. The dataset contains city, villages, country roads, federal roads and highway scenes in different weather conditions, daytimes and time of year. It includes a variation of corner cases like extreme light, snow and rain to validate Deep Learning algorithms.
 
 add some images here....
 
@@ -40,7 +40,7 @@ The following image shows the Raspberry Pi 4 with a heat sink being machined to 
 
 
 ## Setup
-´´´
+```
 1x Raspberry Pi 4 Model B 8GB RAM
 1x Fan SHIM by Pimoroni
 1x RPi IR-CUT Camera
@@ -49,15 +49,15 @@ The following image shows the Raspberry Pi 4 with a heat sink being machined to 
 1x IP2S-S3L Car Tablet Holder 
 1x CSI Flex ribbon cable
 1x Odoga 300W Digital Power Converter
-´´´
+```
 
 ### Camera Calibration with PiCamera2 and OpenCV
 The new camera stack of the systems Bullseye 32-bit and 64-bit does not work with [OpenCV](https://github.com/opencv/opencv) for video applications, for this you have to activate the old camera stack, but with mismatch of the function of the new library [PiCamera2](https://github.com/raspberrypi/picamera2). 
 
-In principle, it is possible to configure the camera for the **picamera2** library using a `tuning_file`. These files are .json files which allow to adjust the adjustable parameters for the specific camera model. The parameters have been determined specifically for each camera sensor, so that a manual calibration (chapter 6 https://datasheets.raspberrypi.com/camera/raspberry-pi-camera-guide.pdf) is normally not necessary. 
+In principle, it is possible to configure the camera for the [PiCamera2](https://github.com/raspberrypi/picamera2) library using a `tuning_file` (https://www.raspberrypi.com/documentation/computers/camera_software.html#preview-window). These files are .json files which allow to adjust the adjustable parameters for the specific camera model. The parameters have been determined specifically for each camera sensor, so that a manual calibration (chapter 6 https://datasheets.raspberrypi.com/camera/raspberry-pi-camera-guide.pdf) is normally not necessary. 
 If you do, you can consult the documentation of the parameters and experiment with them yourself.
 
-The adjustment of the camera used with this `tuning_file` offers a lot of adjustment, but you cannot fix lens distortion like radial/tangential distortion with it. For this purpose, however, the special camera calibration using **opencv** can be used. Thus it is theoretically possible to use the tuning parameters as well as the non-distortion for the camera recording.
+The adjustment of the camera used with this `tuning_file` offers a lot of adjustment, but you cannot fix lens distortion like radial/tangential distortion with it. For this purpose, however, the special camera calibration using [Camera Calibration](https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html) can be used. Thus it is theoretically possible to use the tuning parameters as well as the non-distortion for the camera recording.
 
 ### Current options
 
