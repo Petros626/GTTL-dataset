@@ -7,7 +7,7 @@ add some images here....
 
 ## Specifications
 ```
-Camera:
+Camera/Data:
 
 Resolution: 1920×1080 pixels
 Camera: RPi IR-Cut Camera
