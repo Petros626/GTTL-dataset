@@ -66,7 +66,7 @@ Thus it is theoretically possible to use the tuning parameters as well as the no
 
 |    PiCamera2              |      OpenCV                   |   PiCamera2&OpenCV
 |---------------------------|-------------------------------|-------------------|
-| - use the .json tuning_file  with a lot of algorithms for RPi cameras | - Enable the old camera-stack for RPi and use the camera calibration for undistortion with the OpenCV provided parameters (less as PiCamera2) | - works, but the stream is very slow (suggestions for improvement welcome **link script**) |                    
+| - use the .json tuning_file  with a lot of algorithms for RPi cameras | - Enable the old camera-stack for RPi and use the camera calibration for undistortion with the [OpenCV](https://github.com/opencv/opencv) provided parameters (less as [PiCamera2](https://github.com/raspberrypi/picamera2)) | - works, but the stream is very slow (suggestions for improvement welcome **link script**) |                    
  
 ### Only camera calibration
 
@@ -117,7 +117,7 @@ The last script needs the destination, where the calibration images for OpenCV c
 sudo python3 ir_cut_picamera2_timer.py --imgdir=calibration_images --res=1920x1080 --time=5
 ```
 
-__Note__: This script serves as the basis for the actual calibration (see **Camera Calibration with PiCamera2 and OpenCV**). Further information here https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html.
+__Note__: This script serves as the basis for the actual calibration (see **Camera Calibration with PiCamera2 and OpenCV**). Further information here [Camera Calibration](https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html).
 
 
 
