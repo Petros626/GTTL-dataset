@@ -32,6 +32,8 @@ RAM: 8GB
 EEPROM: up to date (important for optimized speed)
 + specific settings (see RPi 4 Tuning guide*) 
 ```
+The following image shows the Raspberry Pi 4 with a heat sink being machined to be compatible with the fan.
+
 ![IMG_20230224_102944](https://user-images.githubusercontent.com/62354721/221149841-7bf500a8-adde-477b-adfa-16f22ecd0809.jpg)
 
  [RPi 4 Tuning guide*](https://github.com/Petros626/GTTL-dataset/blob/main/RPi%204%20Tuning%20Guide.pdf). Of course the values are not limited, but for me the focus was on a combination of performance and safety. If necessary, I will adjust the values for the CPU and GPU.
