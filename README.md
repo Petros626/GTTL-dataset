@@ -54,7 +54,7 @@ The adjustment of the camera used with this `tuning_file` offers a lot of adjust
 
 |    PiCamera2     |      OpenCv       |   PiCamera2&OpenCV
 |------------------|-------------------|-------------------|
-| use the tuning_file  | Row 1, Column 2   |                   |
+| use the .json tuning_file with a lot of algorithms  | Row 1, Column 2   |                   |
 | Row 2, Column 1  | Row 2, Column 2   |                   |
 
 
