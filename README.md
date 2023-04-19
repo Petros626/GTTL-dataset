@@ -7,7 +7,7 @@ add some images here....
 
 ## Specifications
 ```
-Camera/Data:
+Data:
 
 Resolution: 1920×1080 pixels
 Camera: RPi IR-Cut Camera
@@ -18,6 +18,8 @@ Classes: xx
 Images: xxx,xxx
 Minimum distance between individual images: individually self-triggered
 ```
+Camera:
+
 ![image](https://user-images.githubusercontent.com/62354721/221123624-c9bb0426-997a-4e2e-94f0-ba764db2f04c.png)
 
 Available here: https://www.waveshare.com/product/rpi-ir-cut-camera.htm
