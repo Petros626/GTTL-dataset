@@ -3,7 +3,8 @@ This **German Traffic Transfer Learning** (GTTL)-dataset contains more than xxx,
 
 add some images here.....
 
-
+## Information
+**This data set will be continuously expanded and maintained by me in the future. The aim is to collect and label approx. 350,000 images.**
 
 ## Specifications
 ```
