@@ -58,18 +58,19 @@ This script loads the calibration images of the default folder "calib_images". F
 
 
 ## Software
+Manually take and save pictures:
 ```python
 ir_cut_picamera2.py: 
 ```
-manually take and save pictures
 
+Same as above as OOP approach:
 ```python
 ir_cut_picamera2_oop.py:
 ```
-same as above as OOP approach
 
+Take and save pictures with self-triggered timer:
 ```python
-ir_cut_picamera2_timer.py: take and save pictures with self-timer
+ir_cut_picamera2_timer.py: 
 ```
 
 The first script is used to manually take and save pictures. The second is a copy of the first but with an object-oriented approach. The last script is used for capturing with a 5 second timer, which is basically used for creating the images for the camera calibration.
