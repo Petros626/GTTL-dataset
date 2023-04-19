@@ -52,7 +52,7 @@ The adjustment of the camera used with this `tuning_file` offers a lot of adjust
 
 ### Current options
 PiCamera2:         OpenCV       PiCamera2&OpenCV
-&#32;
+
 This script loads the calibration images of the default folder "calib_images". Further you must give the folder, where the undistorted images after calibration get saved. The last argument is the board dimension, which must be given correctly, because many people make a mistak here, which causes that the algorithms can't find all corners and return `False` for some calibration images. 
 
 ```python
