@@ -11,18 +11,15 @@ Data:
 
 Resolution: 1920×1080 pixels
 Camera: RPi IR-Cut Camera
-Sensor: OmniVision OV5647 
+Sensor: OmniVision OV5647
+Lens: M12 mount lens (3.6 mm focal length)
 Format: PNG (Quality Level 95%, Compression Level 0)
 Size: xxx GB
 Classes: xx
 Images: xxx,xxx
 Minimum distance between individual images: individually self-triggered
 ```
-Camera:
 
-![image](https://user-images.githubusercontent.com/62354721/221123624-c9bb0426-997a-4e2e-94f0-ba764db2f04c.png)
-
-Available here: https://www.waveshare.com/product/rpi-ir-cut-camera.htm
 ```
 
 Hardware:
