@@ -40,6 +40,11 @@ EEPROM: up to date (important for optimized speed)
 
 
 ## Setup
+&#32;
+&#32;
+&#32;
+&#32;
+&#32;
 to be continued... Images of whole Hardware Setup for dataset creation
 
 ### Camera Calibration with PiCamera2 and OpenCV
