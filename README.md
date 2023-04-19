@@ -111,7 +111,7 @@ sudo python3 ir_cut_picamera2.py --imgdir=images --res=1920x1080
 sudo python3 ir_cut_picamera2_oop.py --imgdir=images --res=1920x1080
 ```
 
-The last script needs the destination, where the calibration images for OpenCV camera calibration get saved. Additionally you can adjust the time before a picture is taken, to position the chessboard before taking the image. To achieve a sufficient accuracy it's recommended to take between 10-20 images of the chessboard.
+The last script needs the destination, where the calibration images for [OpenCV](https://github.com/opencv/opencv) [Camera Calibration](https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html) get saved. Additionally you can adjust the time before a picture is taken, to position the chessboard before taking the image. To achieve a sufficient accuracy it's recommended to take between 10-20 images of the chessboard.
 
 ```python
 sudo python3 ir_cut_picamera2_timer.py --imgdir=calibration_images --res=1920x1080 --time=5
