@@ -70,7 +70,7 @@ Thus it is theoretically possible to use the tuning parameters as well as the no
  
 ### Only camera calibration
 
-If you intend to calibrate your camera independently of [PiCamera2](ttps://github.com/raspberrypi/picamera2) due to strong distortion, I provide the following scripts. The first script is used for capturing with a 5 second timer, which is basically used for creating the images for the camera calibration.
+If you intend to calibrate your camera independently of [PiCamera2](https://github.com/raspberrypi/picamera2) due to strong distortion, I provide the following scripts. The first script is used for capturing with a 5 second timer, which is basically used for creating the images for the camera calibration.
 
 Take and save pictures with self-triggered timer:
 ```python
