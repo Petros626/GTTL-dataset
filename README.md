@@ -59,8 +59,16 @@ This script loads the calibration images of the default folder "calib_images". F
 
 ## Software
 ```python
-ir_cut_picamera2.py: manually take and save pictures
-ir_cut_picamera2_oop.py: same as above as OOP approach
+ir_cut_picamera2.py: 
+```
+manually take and save pictures
+
+```python
+ir_cut_picamera2_oop.py:
+```
+same as above as OOP approach
+
+```python
 ir_cut_picamera2_timer.py: take and save pictures with self-timer
 ```
 
