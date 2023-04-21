@@ -67,7 +67,7 @@ Thus it is theoretically possible to use the tuning parameters as well as the no
 
 |    PiCamera2              |      OpenCV                   |   PiCamera2&OpenCV
 |---------------------------|-------------------------------|-------------------|
-| - use the .json tuning_file  with a lot of algorithms for RPi cameras | - Enable the old camera-stack for RPi and use the camera calibration for undistortion with the [OpenCV](https://github.com/opencv/opencv) provided parameters (less as [PiCamera2](https://github.com/raspberrypi/picamera2)) | - works, but the stream is very slow (suggestions for improvement welcome **link script**) |                    
+| - use the .json tuning_file  with a lot of algorithms for RPi cameras | - Enable the old camera-stack for RPi and use the camera calibration for undistortion with the [OpenCV](https://github.com/opencv/opencv) provided parameters (more than [PiCamera2](https://github.com/raspberrypi/picamera2)) | - works, but the stream is very slow (suggestions for improvement welcome **link script**) |                    
  
 ### Only camera calibration
 
