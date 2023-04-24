@@ -35,6 +35,6 @@ cv2.CAP_PROP_FOCUS 			- 	/
 cv2.CAP_PROP_BACKLIGHT 		- 	/
 cv2.CAP_PROP_AUTOFOCUS 		- 	/
 cv2.CAP_PROP_AUTO_WB 		- 	Enable/disable auto white-balance
-cv2.CAP_PROP_WB_TEMPERATURE   - 	  White-balance color temperature
+cv2.CAP_PROP_WB_TEMPERATURE    - 	  White-balance color temperature
 
 = 16 (excluding width and height, which can be set also in PiCamer2)
