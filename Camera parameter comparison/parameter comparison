@@ -18,14 +18,14 @@ rpi.sharpen					-	Sharpening
 
 
 OpenCV:
-cv2.CAP_PROP_FRAME_WIDTH  -   Width
-cv2.CAP_PROP_FRAME_HEIGHT -   Height
-cv2.CAP_PROP_BRIGHTNESS   -   Brightness of the image (only for those cameras that support)
-cv2.CAP_PROP_CONTRAST     -   Contrast of the image (only for cameras)
-cv2.CAP_PROP_SATURATION   -   Saturation of the image (only for cameras)
-cv2.CAP_PROP_HUE          -   Hue of the image (only for cameras)
-cv2.CAP_PROP_GAIN         -   Gain of the image (only for those cameras that support)
-cv2.CAP_PROP_EXPOSURE     -   Exposure (only for those cameras that support)
+cv2.CAP_PROP_FRAME_WIDTH  -     Width
+cv2.CAP_PROP_FRAME_HEIGHT -     Height
+cv2.CAP_PROP_BRIGHTNESS   -     Brightness of the image (only for those cameras that support)
+cv2.CAP_PROP_CONTRAST     -     Contrast of the image (only for cameras)
+cv2.CAP_PROP_SATURATION   -     Saturation of the image (only for cameras)
+cv2.CAP_PROP_HUE          -     Hue of the image (only for cameras)
+cv2.CAP_PROP_GAIN         -     Gain of the image (only for those cameras that support)
+cv2.CAP_PROP_EXPOSURE     -     Exposure (only for those cameras that support)
 cv2.CAP_PROP_SHARPNESS    - 	/
 cv2.CAP_PROP_AUTO_EXPOSURE-	DC1394: exposure control done by camera, user can adjust reference level using this feature
 cv2.CAP_PROP_GAMMA        - 	/
