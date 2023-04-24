@@ -2,7 +2,7 @@ This file compares the available useful parameters of the libraries PiCamera2 an
 
 PiCamera2:
 rpi.black_level   - Specifies a default black level value to use for all three RGB channels
-rpi.dpc           -	Defective Pixel Correction
+rpi.dpc           -Defective Pixel Correction
 rpi.lux						-	The values are derived from one of the Macbeth Chart calibration images
 rpi.noise 				-	Calculate the noise profile of the image
 rpi.geq 					-	Green Equalisation
