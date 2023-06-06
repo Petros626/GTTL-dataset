@@ -4,15 +4,15 @@ This **German Traffic Transfer Learning** (GTTL)-dataset contains more than xxx,
 add some images here.....
 
 ## Information
-**This data set will be continuously expanded and maintained by me in the future. The aim is to collect and label approx. 350.000 images.**
+**This data set will be continuously expanded and maintained by me in the future. The aim is to collect and label a huge amount of images (depending on my private time).**
 
 ## Specifications
 ```
 Data:
 
 Resolution: 1920×1080 pixels
-Camera: RPi IR-Cut Camera (IR-Filter deactivated)
-Sensor: OmniVision OV5647
+Camera: RPi IR-Cut Camera (IR-Filter deactivated) and later RPi Camera (B)
+Sensor: OmniVision OV5647 (both)
 Lens: M12 mount lens (3.6 mm focal length)
 Format: PNG (Quality Level 95%, Compression Level 0)
 Size: xxx GB
