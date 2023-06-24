@@ -56,7 +56,7 @@ The following image shows the Raspberry Pi 4 with a heat sink being machined to 
  [RPi 4 Tuning guide*](https://github.com/Petros626/GTTL-dataset/blob/main/RPi%204%20Tuning%20Guide.pdf). Of course the values are not limited, but for me the focus was on a combination of performance and safety. If necessary, I will adjust the values for the CPU and GPU.
  
 
- # Car setup
+ ### Car setup
  
 
 ## Outlook
