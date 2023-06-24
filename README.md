@@ -57,6 +57,8 @@ The following image shows the Raspberry Pi 4 with a heat sink being machined to 
  
 
  ### Car setup
+
+ show images from the equipment inside
  
 
 ## Outlook
