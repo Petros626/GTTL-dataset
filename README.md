@@ -12,7 +12,7 @@ This **German Traffic Transfer Learning** (GTTL)-dataset contains actually more 
 Data:
 
 Resolution: 1920×1080 pixels
-Camera: RPi IR-Cut Camera (IR-Filter deactivated) and later RPi Camera (B)
+Camera: RPi IR-Cut Camera (IR-Filter deactivated)
 Sensor: OmniVision OV5647 (both)
 Lens: M12 mount lens (3.6 mm focal length)
 Format: PNG (Quality Level 95%, Compression Level 0)
