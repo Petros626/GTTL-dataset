@@ -5,7 +5,9 @@ This **German Traffic Transfer Learning** (GTTL)-dataset contains actually more 
 
 
 ## Information
-**This data set will be continuously expanded and maintained by me in the future. The aim is to collect and label a huge amount of images (depending on my private time).**
+**This data set will be continuously expanded and maintained by me in the future. The aim is to collect and label a huge amount (300k+) of images (depending on my private time). Additionally it would be nice to get support, since the prices for gasoline have risen sharply and as a student the driving distances for the data record myself pay.**
+
+https://www.buymeacoffee.com/mrsakos
 
 ## Specifications
 ```
