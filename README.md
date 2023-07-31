@@ -19,9 +19,9 @@ Camera: RPi IR-Cut Camera (IR-Filter deactivated)
 Sensor: OmniVision OV5647
 Lens: M12 mount lens (3.6 mm focal length)
 Format: PNG (Quality Level 95%, Compression Level 0)
-Size: xxx GB
+Size: 93.7 GB
 Classes: xx
-Images: xxx,xxx
+Images: 16.175
 Minimum distance between individual images: individually self-triggered
 ```
 
