@@ -1,5 +1,5 @@
 # GTTL-dataset
-This **German Traffic Transfer Learning** (GTTL)-dataset contains actually more than 16,000 images with more than xx classes. The class system is based on the German road traffic regulation (StVo), traffic and traffic participants. It covers traffic signs, lights, vehicles, pedestrians. The dataset contains city, villages, country roads, federal roads and highway scenes in different weather conditions, daytimes and time of year. It includes a variation of corner cases like extreme light, snow and rain to validate Deep Learning algorithms.
+This **German Traffic Transfer Learning** (GTTL)-dataset contains actually more than 16,000 images with more than xx classes. The class system is based on the German road traffic regulation (StVo), traffic and traffic participants. It covers traffic signs, lights, vehicles, pedestrians. The dataset contains city, villages, country roads, federal roads and highway scenes in different weather conditions, daytimes and time of year. It includes a variation of corner cases like extreme light, snow and rain to train and validate Deep Learning algorithms.
 
 
 ![dataset_snippet_cut](https://github.com/Petros626/GTTL-dataset/assets/62354721/ba4ceb63-dd54-4445-954a-fd55b26355c0)
