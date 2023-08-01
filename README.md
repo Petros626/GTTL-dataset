@@ -66,13 +66,13 @@ The following image shows the Raspberry Pi 4 with a heat sink being machined to 
 
  ![car_setup3-removebg-preview](https://github.com/Petros626/GTTL-dataset/assets/62354721/f64d855d-9b4c-49a4-8dd3-7e3cb16d03d9)
 
- ##Software
+ ## Software
  
- ###CVAT
+ ### CVAT
 
 The Computer Vision Annotation Tool [CVAT](https://github.com/opencv/cvat) is an interactive image and video annotation tool for computer vision. It supports faster labeling than conventional tools with functions like automated annotation, tracking mode or pretrained AI models.
  
- ###PlateRecognizer
+ ### PlateRecognizer
  
 
 ## Outlook
