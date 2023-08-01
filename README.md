@@ -62,7 +62,8 @@ The following image shows the Raspberry Pi 4 with a heat sink being machined to 
 
  ### Car setup
 
- show images from the equipment inside
+ ![car_setup3-removebg-preview](https://github.com/Petros626/GTTL-dataset/assets/62354721/f64d855d-9b4c-49a4-8dd3-7e3cb16d03d9)
+
  
 
 ## Outlook
