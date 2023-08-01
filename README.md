@@ -70,10 +70,10 @@ The following image shows the Raspberry Pi 4 with a heat sink being machined to 
  
  ### CVAT
 
-The Computer Vision Annotation Tool [CVAT](https://github.com/opencv/cvat) is an interactive image and video annotation tool for computer vision. It supports faster labeling than conventional tools with functions like automated annotation, tracking mode or pretrained AI models.
+The Computer Vision Annotation Tool ([CVAT](https://github.com/opencv/cvat)) is an interactive image and video annotation tool for computer vision. It supports faster labeling than conventional tools with functions like automated annotation, tracking mode or pretrained AI models. So please save yourself time and use a advanced tool instead of the slow tools.
  
- ### PlateRecognizer
- 
+ ### Plate Recognizer
+The [Plate Recognizer](https://platerecognizer.com/) is a Automatic License Plate Recognition to detect and blur license plates of private vehicles. The software also is able to detect human faces and to blur them. Since German data privacy prefer to make these two things unrecognizable, I used this tool to quickly and easily get a dataset that can be published without problems.
 
 ## Outlook
 For automated camera triggering to create the dataset, GPS triggering would be a good method. The Raspberry Pi with a GPS module (e.g. [Neo-6M GPS](https://www.berrybase.de/fr/u-blox-neo-6m-gps-ttl-empfaenger-inkl.-antenne) with [pynmea2](https://github.com/Knio/pynmea2) or [geopy](https://github.com/geopy/geopy) library could be used for this. The calculation of the distance travelled can be achieved manually **pynmea2** or via ready-made functions **geopy**. 
