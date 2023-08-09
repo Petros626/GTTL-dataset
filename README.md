@@ -75,6 +75,8 @@ The Computer Vision Annotation Tool ([CVAT](https://github.com/opencv/cvat)) is 
  ### Plate Recognizer
 The [Plate Recognizer](https://platerecognizer.com/) is a Automatic License Plate Recognition to detect and blur license plates of private vehicles. The software also is able to detect human faces and to blur them. Since German data privacy prefer to make these two things unrecognizable, I used this tool to quickly and easily get a dataset that can be published without problems.
 
+![images_2998](https://github.com/Petros626/GTTL-dataset/assets/62354721/4a06be67-4749-4ca4-8cea-924633981d72)
+
 ## Outlook
 For automated camera triggering to create the dataset, GPS triggering would be a good method. The Raspberry Pi with a GPS module (e.g. [Neo-6M GPS](https://www.berrybase.de/fr/u-blox-neo-6m-gps-ttl-empfaenger-inkl.-antenne) with [pynmea2](https://github.com/Knio/pynmea2) or [geopy](https://github.com/geopy/geopy) library could be used for this. The calculation of the distance travelled can be achieved manually **pynmea2** or via ready-made functions **geopy**. 
 The question arises after how many metres the camera should trigger, are there statistics after how many metres on average in road traffic one traffic sign follows the other or does one refer to already created data sets, such as that of [EvoTegra](https://www.evotegra.de/datasets), which used a distance of 4m per triggering. In itself, it might be a good idea to start with a trigger distance of 4 m.
