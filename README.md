@@ -62,7 +62,7 @@ The following image shows the Raspberry Pi 4 with a heat sink being machined to 
 
  ### Car setup
 
- Here is my setup I used to record the data during driving on different scenes. The used components can be found in chapter [Setup](https://github.com/Petros626/GTTL-dataset#setup).
+Here is my setup I used to record the data during driving on different scenes. The used components can be found in chapter [Setup](https://github.com/Petros626/GTTL-dataset#setup).
 
  ![car_setup3-removebg-preview](https://github.com/Petros626/GTTL-dataset/assets/62354721/f64d855d-9b4c-49a4-8dd3-7e3cb16d03d9)
 
@@ -73,7 +73,7 @@ The following image shows the Raspberry Pi 4 with a heat sink being machined to 
 The Computer Vision Annotation Tool ([CVAT](https://github.com/opencv/cvat)) is an interactive image and video annotation tool for computer vision. It supports faster labeling than conventional tools with functions like automated annotation, tracking mode or pretrained AI models. So please save yourself time and use a advanced tool instead of the slow tools.
  
  ### Plate Recognizer
-The [Plate Recognizer](https://platerecognizer.com/) is a Automatic License Plate Recognition to detect and blur license plates of private vehicles. The software also is able to detect human faces and to blur them. Since German data privacy prefer to make these two things unrecognizable, I used this tool to quickly and easily get a dataset that can be published without problems.
+The [Plate Recognizer](https://platerecognizer.com/) is an Automatic License Plate Recognition to detect and blur license plates of private vehicles. The software also is able to detect human faces and to blur them. Since German data privacy prefer to make these two things unrecognizable, I used this tool to quickly and easily get a dataset that can be published without problems.
 
 ![images_2998](https://github.com/Petros626/GTTL-dataset/assets/62354721/4a06be67-4749-4ca4-8cea-924633981d72)
 
