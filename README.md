@@ -78,7 +78,8 @@ The [Plate Recognizer](https://platerecognizer.com/) is an Automatic License Pla
 
 ## Outlook
 ### Automatic License Plate and Faces Recognition tool:
-I would be glad, if someone could take the existing data and label the dataset with license plates and faces, so that the community have a simple automated tool (python script), which detects and blur very fast these two objects. In relation to the time to blur unrecognized object manually, which are not recognized by Plate Recognizer a strong model could help to overcome this.
-### GPS based image taker
+I would be glad, if someone could take the existing data and label the dataset with license plates and faces, so that the community have a simple automated tool (python script with trained model), which detects and blur very fast these two objects. In relation to the time to blur unrecognized object manually, which are not recognized by the [Plate Recognizer](https://platerecognizer.com/) a strong model could help to overcome this.
+
+### GPS based image taker:
 For automated camera triggering to create the dataset, GPS triggering would be a good method. The Raspberry Pi with a GPS module (e.g. [Neo-6M GPS](https://www.berrybase.de/fr/u-blox-neo-6m-gps-ttl-empfaenger-inkl.-antenne) with [pynmea2](https://github.com/Knio/pynmea2) or [geopy](https://github.com/geopy/geopy) library could be used for this. The calculation of the distance travelled can be achieved manually **pynmea2** or via ready-made functions **geopy**. 
 The question arises after how many metres the camera should trigger, are there statistics after how many metres on average in road traffic one traffic sign follows the other or does one refer to already created data sets, such as that of [EvoTegra](https://www.evotegra.de/datasets), which used a distance of 4m per triggering. In itself, it might be a good idea to start with a trigger distance of 4 m.
