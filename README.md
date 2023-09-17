@@ -76,6 +76,9 @@ The [Plate Recognizer](https://platerecognizer.com/) is an Automatic License Pla
 
 ![images_2998](https://github.com/Petros626/GTTL-dataset/assets/62354721/4a06be67-4749-4ca4-8cea-924633981d72)
 
+## Download dataset
+available soon..
+
 ## Outlook
 ### Automatic License Plate and Faces Recognition tool:
 I would be glad, if someone could take the existing data and label the dataset with license plates and faces, so that the community have a simple automated tool (python script with trained model), which detects and blur very fast these two objects. In relation to the time to blur unrecognized object manually, which are not recognized by the [Plate Recognizer](https://platerecognizer.com/) a strong model could help to overcome this.
