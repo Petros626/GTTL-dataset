@@ -77,6 +77,8 @@ The Computer Vision Annotation Tool ([CVAT](https://github.com/opencv/cvat)) is 
 ### Plate Recognizer
 The [Plate Recognizer](https://platerecognizer.com/) is an Automatic License Plate Recognition to detect and blur license plates of private vehicles. The software also is able to detect human faces and to blur them. Since German data privacy prefer to make these two things unrecognizable, I used this tool to quickly and easily get a dataset that can be published without problems. With a few hundred exceptions, blurring faces and license plates was not a problem.
 
+Note: the images will be converted to .jpg format.
+
 ![images_2998](https://github.com/Petros626/GTTL-dataset/assets/62354721/4a06be67-4749-4ca4-8cea-924633981d72)
 
 ## Download dataset
