@@ -1986,5 +1986,5 @@
     "color": "#f078f0",
     "type": "rectangle",
     "attributes": []
-  },
+  }
 ]
