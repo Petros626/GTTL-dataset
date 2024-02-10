@@ -84,1893 +84,1907 @@
     "attributes": []
   },
   {
-    "name": "limit 40",
+	"name": "limit 35",
     "id": 13,
     "color": "#fa3253",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "limit 50",
+    "name": "limit 40",
     "id": 14,
     "color": "#fa3253",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "limit 60",
+    "name": "limit 50",
     "id": 15,
     "color": "#fa3253",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "limit 70",
+    "name": "limit 60",
     "id": 16,
     "color": "#fa3253",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "limit 80",
+    "name": "limit 70",
     "id": 17,
     "color": "#fa3253",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "limit 90",
+    "name": "limit 80",
     "id": 18,
     "color": "#fa3253",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "limit 100",
+    "name": "limit 90",
     "id": 19,
     "color": "#fa3253",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "limit 110",
+    "name": "limit 100",
     "id": 20,
     "color": "#fa3253",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "limit 120",
+    "name": "limit 110",
     "id": 21,
     "color": "#fa3253",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "limit 130",
+    "name": "limit 120",
     "id": 22,
     "color": "#fa3253",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 5",
+    "name": "limit 130",
     "id": 23,
-    "color": "#ecefee",
+    "color": "#fa3253",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 10",
+    "name": "end max speed 5",
     "id": 24,
     "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 15",
+    "name": "end max speed 10",
     "id": 25,
     "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 20",
+    "name": "end max speed 15",
     "id": 26,
     "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 30",
+    "name": "end max speed 20",
     "id": 27,
     "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 40",
+    "name": "end max speed 30",
     "id": 28,
     "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 50",
+    "name": "end max speed 40",
     "id": 29,
     "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 60",
+    "name": "end max speed 50",
     "id": 30,
     "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 70",
+    "name": "end max speed 60",
     "id": 31,
     "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 80",
+    "name": "end max speed 70",
     "id": 32,
     "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 90",
+    "name": "end max speed 80",
     "id": 33,
     "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 100",
+    "name": "end max speed 90",
     "id": 34,
     "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 110",
+    "name": "end max speed 100",
     "id": 35,
     "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 120",
+    "name": "end max speed 110",
     "id": 36,
     "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end max speed 130",
+    "name": "end max speed 120",
     "id": 37,
     "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "min speed 30",
+    "name": "end max speed 130",
     "id": 38,
-    "color": "#2a7dd1",
+    "color": "#ecefee",
     "type": "rectangle",
     "attributes": []
   },
-  {
-    "name": "min speed 60",
+   {
+    "name": "min speed 30",
     "id": 39,
     "color": "#2a7dd1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "min speed 80",
+    "name": "min speed 60",
     "id": 40,
     "color": "#2a7dd1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end min speed 30",
+    "name": "min speed 80",
     "id": 41,
     "color": "#2a7dd1",
     "type": "rectangle",
     "attributes": []
   },
-  {
-    "name": "end min speed 60",
+   {
+    "name": "end min speed 30",
     "id": 42,
     "color": "#2a7dd1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end min speed 80",
+    "name": "end min speed 60",
     "id": 43,
     "color": "#2a7dd1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "start 30 km/h zone",
+    "name": "end min speed 80",
     "id": 44,
-    "color": "#aaf0d1",
+    "color": "#2a7dd1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end 30 km/h zone",
+    "name": "start 30 km/h zone",
     "id": 45,
     "color": "#aaf0d1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "start restr. stop ban zone",
+    "name": "end 30 km/h zone",
     "id": 46,
     "color": "#aaf0d1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end restr. no-stopping zone",
+    "name": "start restr. stop ban zone",
     "id": 47,
     "color": "#aaf0d1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "start emission zone",
+    "name": "end restr. no-stopping zone",
     "id": 48,
     "color": "#aaf0d1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end emission zone",
+    "name": "start emission zone",
     "id": 49,
     "color": "#aaf0d1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "start pedestrian zone",
+    "name": "end emission zone",
     "id": 50,
     "color": "#aaf0d1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end pedestrian zone",
+    "name": "start pedestrian zone",
     "id": 51,
     "color": "#aaf0d1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "start p. manag. zone",
+    "name": "end pedestrian zone",
     "id": 52,
     "color": "#aaf0d1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end p. manag. zone",
+    "name": "start p. manag. zone",
     "id": 53,
     "color": "#aaf0d1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "start bicycle lane",
-    "id": 54,
-    "color": "#aaf0d1",
+	"name": "end p. manag. zone",
+	"id": 54,
+	"color": "#aaf0d1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end bicycle lane",
+    "name": "start bicycle lane",
     "id": 55,
     "color": "#aaf0d1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "straight ahead",
+    "name": "end bicycle lane",
     "id": 56,
-    "color": "#3d3df5",
+    "color": "#aaf0d1",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "straight ahead o. right",
+    "name": "straight ahead",
     "id": 57,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "straight ahead o. left",
+    "name": "straight ahead o. right",
     "id": 58,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "left",
+    "name": "straight ahead o. left",
     "id": 59,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "right",
+    "name": "left",
     "id": 60,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "left here",
+    "name": "right",
     "id": 61,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "right here",
+    "name": "left here",
     "id": 62,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "pass right",
+    "name": "right here",
     "id": 63,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "pass left",
+    "name": "pass right",
     "id": 64,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "roundabout",
+    "name": "pass left",
     "id": 65,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "cycle path",
+    "name": "roundabout",
     "id": 66,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "bridle path",
+    "name": "cycle path",
     "id": 67,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "bus lane",
+    "name": "bridle path",
     "id": 68,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "pavement",
+    "name": "bus lane",
     "id": 69,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "sh. footpath&cycle path",
+    "name": "pavement",
     "id": 70,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "sep. footpath&cycle path",
+    "name": "sh. footpath&cycle path",
     "id": 71,
     "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban all vehicles",
+    "name": "sep. footpath&cycle path",
     "id": 72,
-    "color": "#ff355e",
+    "color": "#3d3df5",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban motor vehicles",
+    "name": "ban all vehicles",
     "id": 73,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban trucks",
+    "name": "ban motor vehicles",
     "id": 74,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban bicycles",
+    "name": "ban trucks",
     "id": 75,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban motorbikes",
+    "name": "ban bicycles",
     "id": 76,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban mopeds",
+    "name": "ban motorbikes",
     "id": 77,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban riders",
+    "name": "ban mopeds",
     "id": 78,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban pedestrians",
+    "name": "ban riders",
     "id": 79,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban lorries subject",
+    "name": "ban pedestrians",
     "id": 80,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban vehicles hazardous loads",
+    "name": "ban on cars/motorcycles",
     "id": 81,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban vehicles over stated mass",
+	"name": "prohib. labeling vehicles",
     "id": 82,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban vehicles over stated axle load",
+    "name": "ban vehicles hazardous loads",
     "id": 83,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban vehicles over stated width",
+    "name": "ban vehicles over stated mass",
     "id": 84,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban vehicles over stated height",
+    "name": "ban vehicles over stated axle load",
     "id": 85,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban vehicles over specified length",
+    "name": "ban vehicles over stated width",
     "id": 86,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "ban drive below min. distance",
+    "name": "ban vehicles over stated height",
     "id": 87,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "no turning",
+    "name": "ban vehicles over specified length",
     "id": 88,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "priority oncoming traffic",
+    "name": "ban drive below min. distance",
+    "id": 89,
+    "color": "#ff355e",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "no turning",
     "id": 90,
     "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "stop",
+    "name": "priority oncoming traffic",
     "id": 91,
-    "color": "#ffad35",
+    "color": "#ff355e",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "give way",
+    "name": "stop",
     "id": 92,
     "color": "#ffad35",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "railway crossing",
+    "name": "give way",
     "id": 93,
     "color": "#ffad35",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "prohibit entry",
+    "name": "railway crossing",
     "id": 94,
     "color": "#ffad35",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "absolute no stopping",
+    "name": "prohibit entry",
     "id": 95,
     "color": "#ffad35",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "restricted no stopping",
+    "name": "absolute no stopping",
     "id": 96,
     "color": "#ffad35",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "taxi stand",
+    "name": "restricted no stopping",
     "id": 97,
     "color": "#ffad35",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "priority over oncoming traffic",
+    "name": "taxi stand",
     "id": 98,
     "color": "#ffad35",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "priority road",
+    "name": "priority over oncoming traffic",
     "id": 99,
     "color": "#ffad35",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end priority road",
+    "name": "priority road",
     "id": 100,
     "color": "#ffad35",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "bus stop",
+    "name": "end priority road",
     "id": 101,
+    "color": "#ffad35",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "bus stop",
+    "id": 102,
     "color": "#ffad35",
     "type": "rectangle",
     "attributes": []
   },
     {
     "name": "toll duty",
-    "id": 102,
-    "color": "#ffad35",
-    "type": "rectangle",
-    "attributes": []
-  },
-  {
-    "name": "toll road",
     "id": 103,
     "color": "#ffad35",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "customs office",
+    "name": "toll road",
     "id": 104,
     "color": "#ffad35",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "snow chains",
+    "name": "customs office",
     "id": 105,
     "color": "#ffad35",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "no overtak. (motor vehicles)",
+    "name": "snow chains",
     "id": 106,
-    "color": "#c78274",
+    "color": "#ffad35",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "no overtak. (motor vehicles >3.5t)",
+    "name": "no overtak. (motor vehicles)",
     "id": 107,
     "color": "#c78274",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end no overtak. (motor vehicles)",
+    "name": "no overtak. (motor vehicles >3.5t)",
     "id": 108,
     "color": "#c78274",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end no overtak. (motor vehicles >3.5t)",
+    "name": "end no overtak. (motor vehicles)",
     "id": 109,
     "color": "#c78274",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end all speed&overtak. bans",
+    "name": "end no overtak. (motor vehicles >3.5t)",
     "id": 110,
     "color": "#c78274",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "parking",
+    "name": "end all speed&overtak. bans",
     "id": 111,
-    "color": "#5986b3",
+    "color": "#c78274",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "pavement parking",
+    "name": "parking",
     "id": 112,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "park&ride",
+    "name": "pavement parking",
     "id": 113,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "hikers' parking",
+    "name": "park&ride",
     "id": 114,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "parking disc",
+    "name": "hikers' parking",
     "id": 115,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "start traffic calmed area",
+    "name": "parking disc",
     "id": 116,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end traffic-calmed area",
+    "name": "start traffic calmed area",
     "id": 117,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "tunnel",
+    "name": "end traffic-calmed area",
     "id": 118,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "emergency stops&lay-bys",
+    "name": "tunnel",
     "id": 119,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "highway",
+    "name": "emergency stops&lay-bys",
     "id": 120,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end highway",
+    "name": "highway",
     "id": 121,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "motorway",
+    "name": "end highway",
     "id": 122,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end motorway",
+    "name": "motorway",
     "id": 123,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "pedestrian crossing",
+    "name": "end motorway",
     "id": 124,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "water protection area",
+    "name": "pedestrian crossing",
     "id": 125,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "pedestrian underpass|overpass",
+    "name": "water protection area",
     "id": 126,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "traffic helper",
+    "name": "pedestrian underpass|overpass",
     "id": 127,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "dead end",
+    "name": "traffic helper",
     "id": 128,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "permeable dead end",
+    "name": "dead end",
     "id": 129,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "first aid",
+    "name": "permeable dead end",
     "id": 130,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "roadside assistance",
+    "name": "first aid",
     "id": 131,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "telephone",
+    "name": "roadside assistance",
     "id": 132,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "petrol station",
+    "name": "telephone",
     "id": 133,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "police",
+    "name": "petrol station",
     "id": 134,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "emergency telephone",
+    "name": "police",
     "id": 135,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "car gas station",
+    "name": "emergency telephone",
     "id": 136,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "natural gas station",
+    "name": "car gas station",
     "id": 137,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "tent&caravan site",
+    "name": "natural gas station",
     "id": 138,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "information point",
+    "name": "tent&caravan site",
     "id": 139,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "highway hotel",
+    "name": "information point",
     "id": 140,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "highway inn",
+    "name": "highway hotel",
     "id": 141,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "highway kiosk",
+    "name": "highway inn",
     "id": 142,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "toilet",
+    "name": "highway kiosk",
     "id": 143,
     "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
-   {
-    "name": "hazardous point",
+  {
+    "name": "toilet",
     "id": 144,
-    "color": "#de173b",
+    "color": "#5986b3",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "intersection|junction right of way f. right",
+    "name": "hazardous point",
     "id": 145,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "curve(left)",
+    "name": "intersection|junction right of way f. right",
     "id": 146,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "curve(right)",
+    "name": "curve(left)",
     "id": 147,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "double curve(first left)",
+    "name": "curve(right)",
     "id": 148,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "double curve(first right)",
+    "name": "double curve(first left)",
     "id": 149,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "gradient in %",
+    "name": "double curve(first right)",
     "id": 150,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "rough road",
+    "name": "gradient in %",
     "id": 151,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "risk skidding @wet|dirty conditions",
+    "name": "rough road",
     "id": 152,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "crosswind",
+    "name": "risk skidding @wet|dirty conditions",
     "id": 153,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "narrow road",
+    "name": "crosswind",
     "id": 154,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "road narrowed right",
+    "name": "narrow road",
     "id": 155,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "road narrowed left",
+    "name": "road narrowed right",
     "id": 156,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "road works",
+    "name": "road narrowed left",
     "id": 157,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "traffic jam",
+    "name": "road works",
     "id": 158,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "right of way",
+    "name": "traffic jam",
     "id": 159,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "oncoming traffic",
+    "name": "right of way",
     "id": 160,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "traffic lights",
+    "name": "oncoming traffic",
     "id": 161,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "pedestrian (warn.)",
+    "name": "traffic lights",
     "id": 162,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "children",
+    "name": "pedestrian (warn.)",
     "id": 163,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "pedestrian crossing (warn.)",
+    "name": "children",
     "id": 164,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "slippery snow|ice",
+    "name": "pedestrian crossing (warn.)",
     "id": 165,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "rockfall",
+    "name": "slippery snow|ice",
     "id": 166,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "grit, gravel",
+    "name": "rockfall",
     "id": 167,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "movable bridge",
+    "name": "grit, gravel",
     "id": 168,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "bank",
+    "name": "movable bridge",
     "id": 169,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "restricted clearance",
+    "name": "bank",
     "id": 170,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "wildlife crossing",
+    "name": "restricted clearance",
     "id": 171,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "cattle drive",
+    "name": "wildlife crossing",
     "id": 172,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "horse riders",
+    "name": "cattle drive",
     "id": 173,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "amphibian migration w. scraper beacon",
+    "name": "horse riders",
     "id": 174,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "air traffic",
+    "name": "amphibian migration w. scraper beacon",
     "id": 175,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "cycling traffic",
+    "name": "air traffic",
     "id": 176,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "buses&coaches",
+    "name": "cycling traffic",
     "id": 177,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "railway crossing",
+    "name": "buses&coaches",
     "id": 178,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "three-strip beacon",
+    "name": "railway crossing",
     "id": 179,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "two-strip beacon",
+    "name": "three-strip beacon",
     "id": 180,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "one-strip beacon",
+    "name": "two-strip beacon",
     "id": 181,
     "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "barrier",
+    "name": "one-strip beacon",
     "id": 182,
-    "color": "#d41e43",
+    "color": "#de173b",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "direction sign",
+    "name": "barrier",
     "id": 183,
     "color": "#d41e43",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "guide beacon",
+    "name": "direction sign",
     "id": 184,
     "color": "#d41e43",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "guide mark",
+    "name": "guide beacon",
     "id": 185,
     "color": "#d41e43",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "directional cone",
+    "name": "guide mark",
     "id": 186,
     "color": "#d41e43",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "mobile barrier board",
+    "name": "directional cone",
     "id": 187,
     "color": "#d41e43",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "green arrow",
+    "name": "mobile barrier board",
     "id": 188,
     "color": "#d41e43",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "plan sketch",
+    "name": "green arrow",
     "id": 189,
-    "color": "#f2f6f4",
+    "color": "#d41e43",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "continuing demand diversion",
+    "name": "plan sketch",
     "id": 190,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "route recomm.",
+    "name": "continuing demand diversion",
     "id": 191,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end route recomm.",
+    "name": "route recomm.",
     "id": 192,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "transition table",
+    "name": "end route recomm.",
     "id": 193,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "swivel board",
+    "name": "transition table",
     "id": 194,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "swivel board prohib. vehicles >2m",
+    "name": "swivel board",
     "id": 195,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "lane board",
+    "name": "swivel board prohib. vehicles >2m",
     "id": 196,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "narrow. board",
+    "name": "lane board",
     "id": 197,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "widen. board",
+    "name": "narrow. board",
     "id": 198,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "merging board",
+    "name": "widen. board",
     "id": 199,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "block bypass",
+    "name": "merging board",
     "id": 200,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "construction site access",
+    "name": "block bypass",
     "id": 201,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "diversion",
+    "name": "construction site access",
     "id": 202,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "attention turners",
+    "name": "diversion",
     "id": 203,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "railway station",
+    "name": "attention turners",
     "id": 204,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "only vehicles over 3,5t",
+    "name": "railway station",
     "id": 205,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "bus free",
+    "name": "only vehicles over 3,5t",
     "id": 206,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "lorry free",
+    "name": "bus free",
     "id": 207,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "tractor may be overtaken",
+    "name": "lorry free",
     "id": 208,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "tram (free)",
+    "name": "tractor may be overtaken",
     "id": 209,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "car parking",
+    "name": "tram (free)",
     "id": 210,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "bicycles free",
+    "name": "car parking",
     "id": 211,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "motorbike parking",
+    "name": "bicycles free",
     "id": 212,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "possible ice|snow",
+    "name": "motorbike parking",
     "id": 213,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "disabled WC",
+    "name": "possible ice|snow",
     "id": 214,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "pedestrians walk left",
+    "name": "disabled WC",
     "id": 215,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "pedestrians walk right",
+    "name": "pedestrians walk left",
     "id": 216,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "danger of accident",
+    "name": "pedestrians walk right",
     "id": 217,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "in wet conditions",
+    "name": "danger of accident",
     "id": 218,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "unaccessible hard shoulder vehicles >3.5t",
+    "name": "in wet conditions",
     "id": 219,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "green plaque free",
+    "name": "unaccessible hard shoulder vehicles >3.5t",
     "id": 220,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "right of way @junctions",
+    "name": "green plaque free",
     "id": 221,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "pointing right",
+    "name": "right of way @junctions",
     "id": 222,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "pointing left",
+    "name": "pointing right",
     "id": 223,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "both directions",
+    "name": "pointing left",
     "id": 224,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "on ...km",
+    "name": "both directions",
     "id": 225,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "time restriction",
+    "name": "on ...km",
     "id": 226,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "total mass",
+    "name": "time restriction",
     "id": 227,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end",
+    "name": "total mass",
     "id": 228,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "radar",
+    "name": "end",
     "id": 229,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "taxi free",
+    "name": "radar",
     "id": 230,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "oil track",
+    "name": "taxi free",
     "id": 231,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "exit",
+    "name": "oil track",
     "id": 232,
     "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "driving on hard shoulder",
+    "name": "exit",
     "id": 233,
-    "color": "#063b70",
+    "color": "#f2f6f4",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "don't drive on hard shoulder",
+    "name": "driving on hard shoulder",
     "id": 234,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "clear hard shoulder",
+    "name": "don't drive on hard shoulder",
     "id": 235,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "exit sign highway",
+    "name": "clear hard shoulder",
     "id": 236,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "exit from highway",
+    "name": "exit sign highway",
     "id": 237,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "arrow signs highway",
+    "name": "exit from highway",
     "id": 238,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "one-way street",
+    "name": "arrow signs highway",
     "id": 239,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "emergency diversion",
+    "name": "one-way street",
     "id": 240,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "advance sign highway",
+    "name": "emergency diversion",
     "id": 241,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "announ. board highway",
+    "name": "advance sign highway",
     "id": 242,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "announ. board highway station",
+    "name": "announ. board highway",
     "id": 243,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "highway distance sign",
+    "name": "announ. board highway station",
     "id": 244,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "highway number plate",
+    "name": "highway distance sign",
     "id": 245,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "highway junction",
+    "name": "highway number plate",
     "id": 246,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "information border crossing",
+    "name": "highway junction",
     "id": 247,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "highway car park",
+    "name": "information border crossing",
     "id": 248,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "announ. beacon single lane",
+    "name": "highway car park",
     "id": 249,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "announ. beacon two lanes",
+    "name": "announ. beacon single lane",
     "id": 250,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "announ. beacon three lanes",
+    "name": "announ. beacon two lanes",
     "id": 251,
     "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "place-name front side",
+    "name": "announ. beacon three lanes",
     "id": 252,
-    "color": "#ffcc33",
+    "color": "#063b70",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "place-name back",
+    "name": "place-name front side",
     "id": 253,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "exit (national roads)",
+    "name": "place-name back",
     "id": 254,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "advance signposts (national roads)",
+    "name": "exit (national roads)",
     "id": 255,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "table signpost",
+    "name": "advance signposts (national roads)",
     "id": 256,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "arrow signposts (national roads)",
+    "name": "table signpost",
     "id": 257,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "arrow signposts (other roads)",
+    "name": "arrow signposts (national roads)",
     "id": 258,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "exit sign (other roads)",
+    "name": "arrow signposts (other roads)",
     "id": 259,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "arrow signs (less traffic importance)",
+    "name": "exit sign (other roads)",
     "id": 260,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "multiple single directions",
+    "name": "arrow signs (less traffic importance)",
     "id": 261,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "roundabout (national roads)",
+    "name": "multiple single directions",
     "id": 262,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "arrow signs lorries",
+    "name": "roundabout (national roads)",
     "id": 263,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "arrow signs bicycles",
+    "name": "arrow signs lorries",
     "id": 264,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "arrow signs hazardous cargo v.",
+    "name": "arrow signs bicycles",
     "id": 265,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "arrow signs water-polluting cargo v.",
+    "name": "arrow signs hazardous cargo v.",
     "id": 266,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "continuation diversion",
+    "name": "arrow signs water-polluting cargo v.",
     "id": 267,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "end diversion",
+    "name": "continuation diversion",
     "id": 268,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "diversion announ.",
+    "name": "end diversion",
     "id": 269,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "signposts towns (national roads)",
+    "name": "diversion announ.",
     "id": 270,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "signposts towns (other roads)",
+    "name": "signposts towns (national roads)",
     "id": 271,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "number plate (national roads)",
+    "name": "signposts towns (other roads)",
     "id": 272,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "road works information",
+    "name": "number plate (national roads)",
     "id": 273,
     "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "tourist information",
+    "name": "road works information",
     "id": 274,
-    "color": "#9e6f11",
+    "color": "#ffcc33",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "tourist route",
+    "name": "tourist information",
     "id": 275,
     "color": "#9e6f11",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "tourist information board",
+    "name": "tourist route",
     "id": 276,
     "color": "#9e6f11",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "lantern ring",
+    "name": "tourist information board",
     "id": 277,
     "color": "#9e6f11",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "place-name sign",
+    "name": "lantern ring",
     "id": 278,
     "color": "#9e6f11",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "number plate european roads",
+    "name": "place-name sign",
     "id": 279,
     "color": "#9e6f11",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "traffic light",
+    "name": "number plate european roads",
     "id": 280,
-    "color": "#f078f0",
+    "color": "#9e6f11",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "signal light",
+    "name": "traffic light",
     "id": 281,
     "color": "#f078f0",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "traffic is released",
+    "name": "signal light",
     "id": 282,
     "color": "#f078f0",
     "type": "rectangle",
     "attributes": []
   },
   {
-    "name": "lane not be used",
+    "name": "traffic is released",
     "id": 283,
     "color": "#f078f0",
     "type": "rectangle",
     "attributes": []
-  } 
-]  
+  },
+  {
+    "name": "lane not be used",
+    "id": 284,
+    "color": "#f078f0",
+    "type": "rectangle",
+    "attributes": []
+  },
+]
