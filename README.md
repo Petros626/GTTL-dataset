@@ -20,7 +20,7 @@ Sensor: OmniVision OV5647
 Lens: M12 mount lens (3.6 mm focal length)
 Format: PNG (Quality Level 95%, Compression Level 0)
 Size: 93.7 GB
-Classes: xx
+Classes: 284
 Images: 16.175
 Minimum distance between individual images: individually self-triggered
 ```
@@ -84,21 +84,11 @@ Note: the images will be converted to .jpg format.
 ## Download dataset
 Part 1: countryroad and village
 
-Data: 
 
-Labels: 
-[countryroad_village_yolo.zip](https://github.com/user-attachments/files/16921821/countryroad_village_yolo.zip) 
-
-[countryroad_village_coco.zip](https://github.com/user-attachments/files/16921824/countryroad_village_coco.zip) 
-
-[countryroad_village_pascalvoc.zip](https://github.com/user-attachments/files/16921825/countryroad_village_pascalvoc.zip)
-
-
-
-Part 2:
+Part 2: highway
 in progess
 
-Part 3:
+Part 3: town
 in progress
 
 ## Outlook
