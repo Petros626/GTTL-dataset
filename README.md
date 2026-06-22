@@ -90,11 +90,11 @@ https://mega.nz/file/emgQnTDB#0LHeJnB2mXnvBINEj82qYw_XE7mO5YC7oE-FaIfh1do
 
 
 Part 2: highway
-in progess
+due to lack of time I stopped this project
 
 
 Part 3: town
-in progress
+due to lack of time I stopped this project
 
 ## Outlook
 ### Automatic License Plate and Faces Recognition tool:
